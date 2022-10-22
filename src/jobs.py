@@ -7,4 +7,3 @@ def read(path):
     with open(path) as file:
         jobs = csv.DictReader(file)
         return list(jobs)
-
