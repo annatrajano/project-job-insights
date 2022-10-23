@@ -37,12 +37,12 @@ Após cada um dos passos, haverá um exemplo do comando a ser digitado para faze
 2. Entre no diretório que acabou de criar e depois clone o projeto:
 ```javascript
   cd projetos
-  git clone git@github.com:annabia95/project-trybe-futebol-clube.git
+  git clone git@github.com:annatrajano/project-job-insights.git
 ```
 
 3. Acesse o diretório do projeto e depois crie um ambiente virtual para instalar todas as dependências necessárias:
 ```javascript
-  cd project-trybe-futebol-clube
+  cd project-job-insights
 ```
 
 4. O Python oferece um recurso chamado de ambiente virtual, onde permite sua máquina rodar sem conflitos, diferentes tipos de projetos com diferentes versões de bibliotecas.
